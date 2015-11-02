@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FINKISpeech</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="menu_description">To select an item from the menu just say the key word</string>
+    <string name="digits">Digits</string>
+    <string name="forecast">Forecast</string>
+    <string name="change">Change</string>
+    <string name="exit">Exit</string>
+
+    <string name="digits_description">Say digits from 0 to 9. To go back just say "Back".</string>
+
+    <string name="forecast_description">Say weather forecasts.</string>
+
+</resources>
